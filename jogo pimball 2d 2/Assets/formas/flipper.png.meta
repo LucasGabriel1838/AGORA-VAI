@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      flipper_0: -247996242125104783
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

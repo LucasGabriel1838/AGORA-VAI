@@ -41,7 +41,6 @@ public class flipper : MonoBehaviour
         motor.motorSpeed = speed;
         motor.maxMotorTorque = motorMaxTorque;
         hinge.motor = motor;
-        hinge.useMotor = true; // <- Isso é importante
     }
 }
 
